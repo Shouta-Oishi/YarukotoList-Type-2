@@ -1,6 +1,7 @@
 # やることリスト Type-2
 
 曜日ごとにタスクを管理できる、Webアプリケーションです。
+<img width="1338" height="909" alt="Image" src="https://github.com/user-attachments/assets/041e98ff-fe26-47ed-92d5-1a76eca80ae1" />
 
 ## 概要
 
