@@ -1,7 +1,7 @@
 # やることリスト Type-2
 
 曜日ごとにタスクを管理できる、Webアプリケーションです。
-<img width="1338" height="909" alt="Image" src="https://github.com/user-attachments/assets/041e98ff-fe26-47ed-92d5-1a76eca80ae1" />
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/2f47517c-fab5-49f5-b276-6b3d24d854fa" />
 
 ## 概要
 
@@ -13,6 +13,8 @@
 - **タスク作成・編集・削除**: タイトル、説明、ジャンル、実行曜日を指定してタスクを管理
 - **曜日別割り当て**: タスクごとに実行する曜日を複数選択可能（月〜日）
 - **ジャンル分類**: タスクをカテゴリー（ジャンル）で分類
+<img width="1338" height="909" alt="Image" src="https://github.com/user-attachments/assets/041e98ff-fe26-47ed-92d5-1a76eca80ae1" />
+
 
 ### 進捗管理
 - **完了率表示**: 当日割り当てられたタスクの完了率をプログレスバーで可視化
